@@ -1,0 +1,59 @@
+[
+    {
+        "id": 1,
+        "title": "Lounge Tunic Black",
+        "description": "Top",
+        "price": 39,
+        "img": "../Images/Cloths_images/image1.jpg",
+        "quantity": 1
+    },
+    {
+        "id": 2,
+        "title": "Jacky Trousers",
+        "description": "Pants",
+        "price": 49,
+        "img": "../Images/Cloths_images/image2.jpg",
+        "quantity": 1
+    },
+    {
+        "id": 3,
+        "title": "Poplin Chef Shirt",
+        "description": "Shirt",
+        "price": 29,
+        "img": "../Images/Cloths_images/image3.jpg",
+        "quantity": 1
+    },
+    {
+        "id": 4,
+        "title": "Romy Trousers",
+        "description": "Pants",
+        "price": 78,
+        "img": "../Images/Cloths_images/image4.jpg",
+        "quantity": 1
+    },
+    {
+        "id": 5,
+        "title": "Lisa Shirt",
+        "description": "Shirt",
+        "price": 99,
+        "img": "../Images/Cloths_images/image5.jpg",
+        "quantity": 1
+    },
+    {
+        "id": 6,
+        "title": "Haori Jacket",
+        "description": "Jacket",
+        "price": 39,
+        "img": "../Images/Cloths_images/image6.jpg",
+        "quantity": 1
+    },
+    {
+        "id": 7,
+        "title": "Sonia Dress",
+        "description": "Dress",
+        "price": 49,
+        "img": "../Images/Cloths_images/image7.jpg",
+        "quantity": 1
+    }
+
+]
